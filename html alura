@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<hmtl>
+    <head>
+    <meta charset="UTF-8" />
+    <tittle> Multiplicando por 1, 2 e 3 </tittle>
+    <link rel="stylesheet" href="estilo.css" />
+    <body>
+        
+         <h2> Area de cadastro </h2>
+        <form action="paginas/login.html" method="GET"> 
+
+            <form method="POST" action="blablabla.php"> </form>
+            <fieldset>
+                <legend>Dados Pessoais</legend>
+            <label>
+                Primeiro Nome: <br/>
+                <input type="text" name="name" />
+            </label>
+
+            <label>
+                Sobrenome:<br/>
+                <input type="text" name="lastname" />
+                </label>           
+                </fieldset>
+
+                <fieldset>
+                    <legend>Dados Profissionais</legend>
+                <label>
+                Nome da Empresa: <br/>
+                    <input type="text" name="companyname" />
+                </label>
+    
+                <label>
+                    Cargo na Empresa: <br/>
+                    <input type="text" name="companyjobtittle" />
+                    </label>   
+                    </fieldset>
+                    <input type="submit" value="Cadastrar" /> 
+                  
+
+            <label>
+                Descrição:<br/>
+                <textarea name="descricao"></textarea>
+            </label>
+
+            <label>
+               Categoria:</label><br>
+               <select name="categoria">
+                <option value="1">Categoria 1</option>
+                <option value="2">Categoria 2</option>
+                <option value="3">Categoria 3</option>
+                <option value="4">Categoria 4</option>
+                <option value="5">Categoria 5</option>
+            </label>
+            <p></p>
+        
+
+            <br/>
+
+            <label>
+                <br/><br/>
+            <br/> <input type="checkbox" />  Eu li e aceito os <a href="paginas/termos.html" target="_blank" class="termoslink">termos de uso</a> (menira kkkk) 
+            <p></p>
+            </label>
+            <button>Realizar cadastro</button>
+
+             
+
+        </form>
+       <h2> Area de login </h2>
+       <form>
+
+       </form>
+
+        <table border="0">
+
+            <thead>
+                <tr>
+                    <th>x1</th>
+                    <th>x2</th>
+                    <th>x3</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td>3</td>
+                    <td>6</td>
+                    <td>9</td>
+                    
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>12</td>
+                    <td>18</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>24</td>
+                    <td>36</td>
+                </tr>
+                <tr>
+                    <td>36</td>
+                    <td>72</td>
+                    <td>108</td>
+                </tr> 
+                <tr>
+                    <td>108</td>
+                    <td>216</td>
+                    <td>324</td>
+                </tr>
+                <tr>
+                    <td>324</td>
+                    <td>648</td>
+                    <td>972</td>
+                </tr>
+                <tr>
+                    <td>972</td>
+                    <td>1.944</td>
+                    <td>2.916</td>
+                </tr>
+                <tr>
+                    <td>2.916</td>
+                    <td>5.832</td>
+                    <td>8.748</td>
+                </tr>
+            </tbody>
+            
+        </table>
+        <h1 style="color:#f00"></h1>
+        <style>
+        h1 { color:blue;
+        font-size:15px;
+        
+        }
+        
+        </style>
+
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram_logo" style="width:200px">
+
+    <p></p>
+
+    <a href="https://instagram.com" style="font-size:20px" title="Testando 1, 2, 3..."> <button> Acesse o Instagram aqui </button></a>
+        
+        <br/>
+        <br/>
+
+        <br/><br/>
+
+        <ol start=""> 
+            <li>Instagram</li>
+            <li>Whatsapp</li>
+            <li>Facebook</li>
+        </ol>
+
+        <h3>Lista de jogos</h3>
+        <ol>
+            <li>
+                Minecraft
+                <ul>
+                    <li>Solo</li>
+                    <li>
+                        Multiplayer
+                    <ul>
+                            <li>EggWars</li>
+                            <li>SkyWars</li>
+                    </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>Dragon City</li>
+            <li>Roblox</li>
+            <li>Rocket League</li>
+            </ol>
+        <p> 
+            <a href="https://lipsum.com">Lorem ipsum dolor</a> sit amet, consectetur adipiscing elit. Vivamus euismod lacus sem, et interdum urna ultrices vitae. Nulla facilisi. Curabitur sem sem, tincidunt id libero vitae, rutrum sodales justo. Duis quis elit magna. Sed lobortis lorem tempus, ultricies erat ut, pretium turpis. Nullam posuere nulla quis nunc eleifend imperdiet. Pellentesque lacinia urna dui. Sed semper, quam quis eleifend consectetur, nulla tortor fermentum orci, ut molestie turpis odio quis purus. Nam consequat imperdiet eros, nec vehicula dolor pharetra vel. Praesent vitae porttitor lacus, in finibus est. Morbi quis fermentum odio. Vestibulum imperdiet maximus est et rhoncus. Integer eu finibus ligula.
+        </p>
+        <p>
+            Aenean tempor tortor diam, vestibulum euismod purus scelerisque et. Aliquam aliquam non dolor quis eleifend. Nulla vitae placerat urna. Maecenas ipsum leo, pellentesque nec enim consectetur, commodo bibendum magna. Integer eget tincidunt augue, eu placerat nulla. Donec convallis tortor nec magna suscipit tempus. Curabitur pellentesque urna ut massa ultrices, in facilisis ipsum dapibus. Vestibulum rutrum nibh ligula, nec rutrum risus sagittis in. Phasellus mattis erat sit amet fermentum malesuada. Nullam consectetur vel velit non sagittis.
+        </p>
+        <p>
+            Aliquam lacinia rhoncus leo eu tincidunt. Integer scelerisque suscipit arcu, efficitur dignissim lacus vestibulum ac. Nullam non congue neque. Praesent a tortor vel massa dapibus placerat. Donec eu lobortis sem. In hac habitasse platea dictumst. Suspendisse et massa ac enim finibus gravida. Fusce egestas magna ut risus hendrerit finibus. Proin a ante in augue ornare eleifend. Morbi nunc sem, venenatis a faucibus vitae, accumsan sollicitudin lorem. Mauris at lectus ut nunc posuere commodo. Etiam pharetra tortor non libero accumsan auctor. Suspendisse vulputate vitae ante eu consectetur. Proin mattis, orci eget tristique tempus, turpis enim auctor tortor, non congue orci mauris ut felis. Quisque id ante vel dui fringilla sollicitudin. Quisque dui nunc, fermentum id nisi in, malesuada lobortis nisl.
+        </p>
+    </body>
+</head>
+</html>
